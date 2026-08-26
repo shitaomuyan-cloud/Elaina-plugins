@@ -592,35 +592,35 @@
     ]
   },
   {
-        "name": "qq_music",
-        "type": "complete",
-        "author": "飞行漂线",
-        "description": "QQ音乐点歌：搜索/音源/完整歌词，个人/群/全局歌词开关，Web管理面板",
-        "version": "1.4.5",
-        "category": "娱乐",
-        "github": "https://github.com/cyrene-093/qq_music",
-        "branch": "main",
-        "tags": [
-            "娱乐",
-            "点歌",
-            "歌词"
-        ]
+    "name": "qq_music",
+    "type": "complete",
+    "author": "飞行漂线",
+    "description": "QQ音乐点歌：搜索/音源/完整歌词，个人/群/全局歌词开关，Web管理面板",
+    "version": "1.5.0",
+    "category": "娱乐",
+    "github": "https://github.com/cyrene-093/qq_music",
+    "branch": "main",
+    "tags": [
+      "娱乐",
+      "点歌",
+      "歌词"
+    ]
   },
   {
-        "name": "娱乐助手",
-        "type": "complete",
-        "author": "慕言 慕北",
-        "description": "群娱乐玩法全家桶：每日签到/抽奖/反甲/抢劫/同归于尽/积分红包/禁言/引用撤回/生图扣积分，含 Web 管理后台，积分按群独立",
-        "version": "2.3.7",
-        "category": "娱乐",
-        "github": "https://github.com/shitaomuyan-cloud/-",
-        "branch": "main",
-        "path": "娱乐助手",
-        "tags": [
-            "娱乐",
-            "积分",
-            "签到",
-            "红包"
-        ]
+    "name": "娱乐助手",
+    "type": "complete",
+    "author": "慕言 慕北",
+    "description": "群娱乐玩法全家桶：每日签到/抽奖/反甲/抢劫/同归于尽/积分红包/禁言/引用撤回/生图扣积分，含 Web 管理后台，积分按群独立",
+    "version": "2.3.7",
+    "category": "娱乐",
+    "github": "https://github.com/shitaomuyan-cloud/-",
+    "branch": "main",
+    "path": "娱乐助手",
+    "tags": [
+      "娱乐",
+      "积分",
+      "签到",
+      "红包"
+    ]
   }
 ]

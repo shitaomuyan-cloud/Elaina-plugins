@@ -82,7 +82,7 @@
     "type": "module",
     "author": "ElainaBot",
     "description": "统一图床上传，用于markdown图片链接发送",
-    "version": "2.2.1",
+    "version": "2.3.0",
     "version_source": "modules/image_hosting/main.py",
     "category": "服务",
     "github": "https://github.com/ElainaCore/ElainaBot_v2",
